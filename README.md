@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luka
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning nothing
 - 📫 How to reach me: you can't reach me
 
 
