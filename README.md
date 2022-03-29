@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luka
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning python
-- 📫 How to reach me: you can't reach me
+- 📫 How to reach me: lukkshh#3849
 
 
 <!--
